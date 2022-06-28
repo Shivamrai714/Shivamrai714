@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SHIVAM RAI {LNCT B.tech CSE - 2023}
+- 👋 Hi, I’m SHIVAM RAI {LNCTS B.tech CSE - 2023}
 - 👀 I’m interested in ... Software Development 
 - 🌱 I’m currently learning ... DSA and spring framework
 - 💞️ I’m looking to collaborate on ... Intern opportunity of SDE role
